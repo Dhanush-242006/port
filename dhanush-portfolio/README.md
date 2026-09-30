@@ -1,6 +1,6 @@
 # Dhanush — Portfolio
 
-Static site, no build step. Vercel serves it as-is.
+Static site, o build step. Vercel serves it as-is.
 
 ```
 index.html            page structure
